@@ -9,6 +9,6 @@
   <project remote="yocto" revision="zeus" name="poky" path="sources/poky"/>
   <project remote="oe" revision="zeus" name="meta-openembedded" path="sources/meta-openembedded"/>
   <project remote="fullmetalupdate" revision="zeus" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
-  <project remote="fullmetalupdate" revision="zeus" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
+  <project remote="cakebread" revision="zeus" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
 
 </manifest>
