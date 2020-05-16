@@ -16,8 +16,8 @@
   <project remote="oe" revision="zeus" name="meta-openembedded" path="sources/meta-openembedded"/>
   <project remote="advancedtelematic" revision="zeus" name="meta-updater" path="sources/meta-updater"/>
   <project remote="witekio" revision="zeus" name="meta-machinelearning" path="sources/meta-machinelearning"/>
-  <project remote="cakebread" revision="zeus" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
-  <project remote="cakebread" revision="zeus" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
+  <project remote="manifest" revision="zeus" name="meta-fullmetalupdate" path="sources/meta-fullmetalupdate"/>
+  <project remote="manifest" revision="zeus" name="meta-fullmetalupdate-extra" path="sources/meta-fullmetalupdate-extra"/>
 
   <project remote="qt" revision="zeus" name="meta-qt5" path="sources/meta-qt5"/>
 
